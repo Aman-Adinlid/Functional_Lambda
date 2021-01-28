@@ -6,6 +6,6 @@ public class Calc implements DoubleOperator {
 
     @Override
     public Double apply(Double a, Double b) {
-        return a+b;
+        return a + b;
     }
 }
