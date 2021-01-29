@@ -50,6 +50,8 @@ public class FunctionalInterfaces {
         };
         System.out.println("Addition: " + addition.apply(3d, 6d));
         System.out.println("Subtraction: " + subtraction.apply(200d, 5d));
-
     }
+
+
+
 }
